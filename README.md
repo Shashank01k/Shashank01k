@@ -12,7 +12,8 @@
 - ⚡ Fun fact: I spend almost 2 hours surfing new things on the internet everyday. I love to keep myself updated!!
 
 ### Tech Stack:
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+ <i class="fab fa-php"></i>
 <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
 <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
 <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
