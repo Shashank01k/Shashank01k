@@ -25,6 +25,7 @@
 ### Me on Internet:
 
 <p><a href="https://twitter.com/home?lang=en"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/shashank-pandey-3123b51b4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-<p><a href="https://shashank01k.github.io/shashank01">➡️ Check out my website</a></p>
+<!-- <p><a href="https://shashank01k.github.io/shashank01">➡️ Check out my website</a></p> -->
+<p><a href="https://shashank01k.github.io/galaxy-programmer/">➡️ Check out my website</a></p>
 <br />
 <br />
