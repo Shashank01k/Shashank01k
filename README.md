@@ -4,12 +4,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-- 🌱 I’m currently trying to learn DSA with [Python](https://www.python.org/).
+- 🌱 I’m trying to learn DSA with [Java](https://www.java.com/en/).
 - 🔭 I’m currently working on **some of my side projects :P**
 - 👯 I’m looking to collaborate on **anything free and open source**
-- 💬 Ask me about PHP, LARAVEL and Mysql.
+- 💬 Ask me about PHP, LARAVEL, and Mysql.
 - 📫 How to reach me **19167shashankpandey@gmail.com**
-- ⚡ Fun fact: I spend almost 2 hours surfing new things on the internet everyday. I love to keep myself updated!!
+- ⚡ Fun fact: I spend almost 30 minutes surfing new things on the internet daily. I love to keep myself updated!!
 
 ### Tech Stack:
 <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
@@ -19,7 +19,7 @@
 <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redis.svg" />
 <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <br />
 
 ### Me on Internet:
