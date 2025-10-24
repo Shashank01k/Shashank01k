@@ -7,7 +7,7 @@
 - 🌱 I’m trying to learn DSA with [Java](https://www.java.com/en/).
 - 🔭 I’m currently working on **some of my side projects :P**
 - 👯 I’m looking to collaborate on **anything free and open source**
-- 💬 Ask me about PHP, LARAVEL, and Mysql.
+- 💬 Ask me about PHP, LARAVEL, and MySQL.
 - 📫 How to reach me **19167shashankpandey@gmail.com**
 - ⚡ Fun fact: I spend almost 30 minutes surfing new things on the internet daily. I love to keep myself updated!!
 
@@ -22,7 +22,7 @@
 <img align="left" alt="shashank | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
 <br />
 
-### Me on Internet:
+### Me on the Internet:
 
 <p><a href="https://twitter.com/home?lang=en"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/shashank-pandey-3123b51b4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <!-- <p><a href="https://shashank01k.github.io/shashank01">➡️ Check out my website</a></p> -->
